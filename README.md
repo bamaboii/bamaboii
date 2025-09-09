@@ -1,4 +1,4 @@
-### wats up everyone!! 👋 
+
 <!--
 **bamaboii/bamaboii** is a ✨ personal✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
